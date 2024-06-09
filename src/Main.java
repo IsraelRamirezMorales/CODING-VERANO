@@ -16,7 +16,6 @@ public class Main {
         JOptionPane.showMessageDialog(null,"El numero es: "+numero);
         JOptionPane.showMessageDialog(null,"La letra es: "+letra);
         JOptionPane.showMessageDialog(null,"El decimal es: "+decimal);
-
     }
 
 }
